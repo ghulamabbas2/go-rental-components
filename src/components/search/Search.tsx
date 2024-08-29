@@ -58,7 +58,7 @@ const Search = () => {
       </div>
       <div className="hidden bg-muted lg:block">
         <img
-          src="https://images.hertz.com/rentacar/content/US/product_services/one-way-car-rentals.jpg"
+          src="/images/search-car.jpg"
           alt="banner"
           width="1920"
           height="1080"
